@@ -8,7 +8,7 @@ This study can be used by game developers to get a broad understanding of the vi
 Team members -
 - Yashwant Raghuwanshi  - 213050002
 - Jaynik Gaglani        - 213050025
-- Siddhant Singh        - 213050030
+- Siddhant Singh        - 213050031
 - Sachin Singh Lodhi    - 213050054
 - Tejas Gunaghe         - 213194002
 
